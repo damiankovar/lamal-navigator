@@ -6,8 +6,6 @@ them, shows how much you would save compared with your current insurer, answers 
 the **actual law texts**, prepares your application to the new insurer and your cancellation letter,
 and tells you clearly what basic insurance does not pay. In French, German, Italian or English.
 
-### ▶ [Watch the 3-minute demo](https://youtu.be/bMkfqNypMic)
-
 <table>
 <tr>
 <th width="33%">1. Fill in a short form</th>
@@ -28,6 +26,7 @@ and tells you clearly what basic insurance does not pay. In French, German, Ital
 · Built with Claude Code as coding agent
 · Technical report: [`track_2b/V-Boys_Report.pdf`](track_2b/V-Boys_Report.pdf)
 ([Markdown version](track_2b/technical_report.md))
+· Hackathon demo video: <https://youtu.be/bMkfqNypMic>
 
 ## The problem
 
