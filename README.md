@@ -15,9 +15,9 @@ and tells you clearly what basic insurance does not pay. In French, German, Ital
 <th width="33%">3. Ask anything: answers from the law, with sources</th>
 </tr>
 <tr>
-<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/form-dark.png"><img src="docs/screenshots/form-light.png" alt="Profile form"></picture></td>
-<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/offers-dark.png"><img src="docs/screenshots/offers-light.png" alt="Offers and the Apertus advisor"></picture></td>
-<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/answer-dark.png"><img src="docs/screenshots/answer-light.png" alt="A legal question answered with linked articles"></picture></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/form-dark.png"><img src="docs/screenshots/form-light.png" alt="Profile form" width="260"></picture></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/offers-dark.png"><img src="docs/screenshots/offers-light.png" alt="Offers and the Apertus advisor" width="260"></picture></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/answer-dark.png"><img src="docs/screenshots/answer-light.png" alt="A legal question answered with linked articles" width="260"></picture></td>
 </tr>
 </table>
 
