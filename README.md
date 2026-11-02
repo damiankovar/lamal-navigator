@@ -6,8 +6,26 @@ them, shows how much you would save compared with your current insurer, answers 
 the **actual law texts**, prepares your application to the new insurer and your cancellation letter,
 and tells you clearly what basic insurance does not pay. In French, German, Italian or English.
 
+### ▶ [Watch the 3-minute demo](https://youtu.be/bMkfqNypMic)
+
+<table>
+<tr>
+<th width="33%">1. Fill in a short form</th>
+<th width="33%">2. Official 2027 premiums, explained by the advisor</th>
+<th width="33%">3. Ask anything: answers from the law, with sources</th>
+</tr>
+<tr>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/form-dark.png"><img src="docs/screenshots/form-light.png" alt="Profile form"></picture></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/offers-dark.png"><img src="docs/screenshots/offers-light.png" alt="Offers and the Apertus advisor"></picture></td>
+<td valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/answer-dark.png"><img src="docs/screenshots/answer-light.png" alt="A legal question answered with linked articles"></picture></td>
+</tr>
+</table>
+
+<sub>Screenshots of the app. The answer in 3 is the real Apertus 70B answer recorded in our evaluation
+(<a href="track_2b/docs/resultats_apertus/2026-10-12_questions_lamal_rag_60.txt">question Q28</a>).</sub>
+
 **Hack Apertus 2026 — Track 2B — team V-Boys** (Sacha Coemelck, Damian Kovar)
-· Demo video: <https://youtu.be/bMkfqNypMic>
+· Built with Claude Code as coding agent
 · Technical report: [`track_2b/V-Boys_Report.pdf`](track_2b/V-Boys_Report.pdf)
 ([Markdown version](track_2b/technical_report.md))
 
